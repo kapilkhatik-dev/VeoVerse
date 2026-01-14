@@ -1,0 +1,17 @@
+{
+    "scenes": [
+        {
+            "prompt": "A cinematic shot of a futuristic neon city in the rain.",
+            "params": {
+                "aspect_ratio": "16:9",
+                "resolution": "1080p"
+            }
+        },
+        {
+            "prompt": "The camera zooms into a single rainy window where a robot is looking out.",
+            "params": {
+                "aspect_ratio": "16:9"
+            }
+        }
+    ]
+}
